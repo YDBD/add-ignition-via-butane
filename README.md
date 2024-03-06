@@ -6,7 +6,7 @@ Official documentation : https://coreos.github.io/butane/getting-started/
 
 https://mirror.openshift.com/pub/openshift-v4/dependencies/rhcos/
 
-## Build ignition file before to add it on RHCOS via coreos-installer
+## Build the ignition file before deploying it to RHCOS via coreos-installer
 
 ### Create the butane file
 
