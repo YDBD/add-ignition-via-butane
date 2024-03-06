@@ -5,3 +5,4 @@ passwd:
     - name: core
       ssh_authorized_keys:
         - 'ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGvQ7Ywj3Oli+A9qb7K1e4QTQOYAFQRvKTAAcBt2fXpx example'
+        - 'ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGvQ7Ywj3Oli+A9qb7K1e4QTQOYAFQRvKTAAcBt2zkpx example2'
