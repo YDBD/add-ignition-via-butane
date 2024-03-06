@@ -26,7 +26,7 @@ podman run --rm --tty --interactive \
     iso ignition embed -i ./added-ssh-key.ign ./rhcos-live.x86_64.iso
 ```
 
-## Check if the ignition is added.
+## Show if the ignition is added or removed
 ```bash
 podman run --rm --tty --interactive \
     --volume ./config:/builder \
