@@ -1,5 +1,12 @@
-## Generate ignition from butane file
+# header
 
+# variables
+
+# function
+
+# main
+
+## Generate ignition from butane file
 podman run --rm --tty --interactive \
     --volume ./config:/builder \
     --workdir /builder \
